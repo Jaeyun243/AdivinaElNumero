@@ -1,0 +1,15 @@
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\bin\Debug\net6.0\AdivinaElNumero.exe
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\bin\Debug\net6.0\AdivinaElNumero.deps.json
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\bin\Debug\net6.0\AdivinaElNumero.runtimeconfig.json
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\bin\Debug\net6.0\AdivinaElNumero.dll
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\bin\Debug\net6.0\AdivinaElNumero.pdb
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.csproj.AssemblyReference.cache
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.GeneratedMSBuildEditorConfig.editorconfig
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.AssemblyInfoInputs.cache
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.AssemblyInfo.cs
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.csproj.CoreCompileInputs.cache
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.dll
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\refint\AdivinaElNumero.dll
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.pdb
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\AdivinaElNumero.genruntimeconfig.cache
+D:\septimo semestre\Aplicaciones Distribuidas\Programas\AdivinaElNumero\AdivinaElNumero\obj\Debug\net6.0\ref\AdivinaElNumero.dll
