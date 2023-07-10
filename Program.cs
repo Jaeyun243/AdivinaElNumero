@@ -6,6 +6,7 @@ namespace AdivinaElNumero
         static void Main(string[] args)
         {
             //Creacion de variables 
+            Console.WriteLine("nueva linea agregada");
             Random random = new Random();
             int numeroAdivinar = random.Next(1, 101);//Variable que crea un numero aleatorio entre 1 y 100
             int intentos = 0;
